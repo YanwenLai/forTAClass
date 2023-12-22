@@ -11,7 +11,7 @@ Original file is located at
 
 def mySum():
     x, y = int(input('請輸入第1個數字: ')), int(input('請輸入第2個數字: '))
-    print(f'{x} + {y} = {x + y}')
+    print(f'你輸了入{x}與{y}，他們的和是 {x + y}')
 
 def mySub():
     x, y = int(input('請輸入第1個數字: ')), int(input('請輸入第2個數字: '))
